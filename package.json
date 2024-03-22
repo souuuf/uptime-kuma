@@ -139,7 +139,7 @@
         "socket.io": "~4.6.1",
         "socket.io-client": "~4.6.1",
         "socks-proxy-agent": "6.1.1",
-        "tar": "~6.1.11",
+        "tar": "~6.2.1",
         "tcp-ping": "~0.1.1",
         "thirty-two": "~1.0.2",
         "tough-cookie": "~4.1.3",
